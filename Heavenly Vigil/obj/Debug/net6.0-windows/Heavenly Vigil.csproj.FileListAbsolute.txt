@@ -1,0 +1,5 @@
+C:\Users\Marcu\OneDrive\Documents\GitHub\Heavenly-Vigil\Heavenly Vigil\obj\Debug\net6.0-windows\Heavenly Vigil.csproj.AssemblyReference.cache
+C:\Users\Marcu\OneDrive\Documents\GitHub\Heavenly-Vigil\Heavenly Vigil\obj\Debug\net6.0-windows\Heavenly Vigil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcu\OneDrive\Documents\GitHub\Heavenly-Vigil\Heavenly Vigil\obj\Debug\net6.0-windows\Heavenly Vigil.AssemblyInfoInputs.cache
+C:\Users\Marcu\OneDrive\Documents\GitHub\Heavenly-Vigil\Heavenly Vigil\obj\Debug\net6.0-windows\Heavenly Vigil.AssemblyInfo.cs
+C:\Users\Marcu\OneDrive\Documents\GitHub\Heavenly-Vigil\Heavenly Vigil\obj\Debug\net6.0-windows\Heavenly Vigil.csproj.CoreCompileInputs.cache
