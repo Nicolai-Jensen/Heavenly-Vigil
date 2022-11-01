@@ -18,14 +18,13 @@ namespace Heavenly_Vigil
         //Methods
         public override void LoadContent(ContentManager content)
         {
-            throw new NotImplementedException();
+            
         }
 
         public override void Update(GameTime gameTime)
         {
-            throw new NotImplementedException();
+            
         }
-        public abstract void Draw(SpriteBatch spriteBatch);
         public abstract void AddValue(GameObject player);
     }
 }

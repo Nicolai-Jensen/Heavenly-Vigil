@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\micha\\OneDrive\\Dokumenter\\GitHub\\Heavenly Vigil\\Heavenly Vigil\\Heavenly Vigil.csproj": {}
+    "C:\\Users\\larse\\Documents\\GitHub\\Heavenly-Vigil\\Heavenly Vigil\\Heavenly Vigil.csproj": {}
   },
   "projects": {
-    "C:\\Users\\micha\\OneDrive\\Dokumenter\\GitHub\\Heavenly Vigil\\Heavenly Vigil\\Heavenly Vigil.csproj": {
+    "C:\\Users\\larse\\Documents\\GitHub\\Heavenly-Vigil\\Heavenly Vigil\\Heavenly Vigil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\micha\\OneDrive\\Dokumenter\\GitHub\\Heavenly Vigil\\Heavenly Vigil\\Heavenly Vigil.csproj",
+        "projectUniqueName": "C:\\Users\\larse\\Documents\\GitHub\\Heavenly-Vigil\\Heavenly Vigil\\Heavenly Vigil.csproj",
         "projectName": "Heavenly Vigil",
-        "projectPath": "C:\\Users\\micha\\OneDrive\\Dokumenter\\GitHub\\Heavenly Vigil\\Heavenly Vigil\\Heavenly Vigil.csproj",
-        "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\micha\\OneDrive\\Dokumenter\\GitHub\\Heavenly Vigil\\Heavenly Vigil\\obj\\",
+        "projectPath": "C:\\Users\\larse\\Documents\\GitHub\\Heavenly-Vigil\\Heavenly Vigil\\Heavenly Vigil.csproj",
+        "packagesPath": "C:\\Users\\larse\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\larse\\Documents\\GitHub\\Heavenly-Vigil\\Heavenly Vigil\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\larse\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
