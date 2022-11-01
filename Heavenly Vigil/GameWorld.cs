@@ -54,7 +54,8 @@ namespace Heavenly_Vigil
         protected override void LoadContent()
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
-
+            Player player1 = new Player(new Vector2(0, 50));
+            gameObjects.Add(player1);
             foreach (GameObject go in gameObjects)
             {
                 go.LoadContent(Content);

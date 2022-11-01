@@ -34,6 +34,7 @@ namespace Heavenly_Vigil
         {
             position = vector2;
             scale = 1f;
+            health = 100;
 
         }
         // -----METHODS-----
