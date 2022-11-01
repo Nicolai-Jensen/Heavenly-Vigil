@@ -23,6 +23,7 @@ namespace Heavenly_Vigil
         protected Vector2 velocity;
         protected float speed;
         protected bool toBeRemoved;
+        protected int layerDepth;
 
         // -----PROPERTIES-----
         private Texture2D CurrentSprite
@@ -70,7 +71,7 @@ namespace Heavenly_Vigil
 
         public abstract void Update(GameTime gameTime);
 
-        public void Draw(SpriteBatch spriteBatch)
+        public virtual void Draw(SpriteBatch spriteBatch)
         {
             Vector2 origin = new Vector2(CurrentSprite.Width / 2, CurrentSprite.Height / 2);
             spriteBatch.Draw(objectSprites[(int)animationTime], position, null, Color.White, 0f, origin, scale, SpriteEffects.None, 0f);
