@@ -20,18 +20,13 @@ namespace Heavenly_Vigil
         {
 
         }
-
-        public override void Update(GameTime gameTime, GraphicsDeviceManager _graphics)
+        public override void Update(GameTime gameTime)
         {
-
-        }
-        public override void Draw(SpriteBatch spriteBatch)
-        {
-            throw new NotImplementedException();
+            
         }
         public override void AddValue(GameObject player)
         {
-            throw new NotImplementedException();
+           
         }
     }
 }
