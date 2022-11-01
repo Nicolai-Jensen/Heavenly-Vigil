@@ -11,7 +11,7 @@ namespace Heavenly_Vigil
 
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
-
+        
         private List<GameObject> gameObjects = new List<GameObject>();
         private static List<GameObject> gameObjectsToAdd = new List<GameObject>();
         private List<GameObject> gameObjectsToRemove = new List<GameObject>();
